@@ -1,0 +1,13 @@
+#time {
+	text-align: center;
+	font-size: 100px;
+	font-family: helvetica;
+	font-weight: bolder;
+	background-color: #f96;
+	height: 160px;
+	width: 400px;
+	margin: 200px auto;
+	border: solid;
+	color: #fff;
+	border-radius: 10px;
+}
