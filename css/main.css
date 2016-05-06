@@ -1,13 +1,17 @@
+body {
+	background-color: #6fc;
+}
 #time {
 	text-align: center;
-	font-size: 100px;
+	font-size: 90px;
 	font-family: helvetica;
 	font-weight: bolder;
 	background-color: #f96;
 	height: 160px;
 	width: 400px;
 	margin: 200px auto;
-	border: solid;
+	border: 5px solid;
 	color: #fff;
 	border-radius: 10px;
+	padding: 10px;
 }

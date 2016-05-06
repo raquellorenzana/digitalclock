@@ -34,7 +34,7 @@ setTimeout(function() {
 }
 
 var clockStart = document.getElementById('time')
-clockStart.onload = startTime
+clockStart.onload = startTime()
 
 
 
